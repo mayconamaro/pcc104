@@ -13,4 +13,4 @@ Execute um exercício compilado usando
 No Windows, se tiver o mingw instalado, basta `mingw-make` no lugar de `make` e não é necessário o uso de `./` ao executar. Talvez seja preciso colocar a extensão `.exe` no Windows.
 
 ## Instâncias
-Cada exercício possui instâncias preparadas para uma execução imediata. Na pasta Instâncias há os geradores em Python utilizados.
+Cada exercício possui instâncias preparadas para uma execução imediata. Na pasta Geradores de Instâncias há os geradores em Python utilizados.
