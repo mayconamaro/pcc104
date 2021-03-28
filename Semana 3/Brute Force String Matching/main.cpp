@@ -12,7 +12,7 @@ int main(){
     std::getline(std::cin, p);
 
     //nenhum deles pode ser vazio
-    assert(!t.empty() || !t.empty());
+    assert(!t.empty() && !p.empty());
 
     std::cout << match(t, p) << std::endl;
 }
