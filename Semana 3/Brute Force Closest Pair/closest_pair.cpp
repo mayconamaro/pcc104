@@ -6,7 +6,7 @@
 
 double findShortest(std::vector<std::pair<int, int>> v){
 
-    double d = std::numeric_limits<double>::max();
+    double d = std::numeric_limits<double>::infinity();
     for(unsigned int i = 0; i < v.size() - 1; i++){
         for(unsigned int j = i + 1; j < v.size(); j++){
 
