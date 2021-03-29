@@ -24,4 +24,9 @@ int main(){
         std::cin >> g[i][j];     
     }
 
+    route resp = computeShortestRoute(g);
+
+    for(auto i : resp)
+        std::cout << i << std::endl;
+    std::cout << resp.front() << std::endl;
 }

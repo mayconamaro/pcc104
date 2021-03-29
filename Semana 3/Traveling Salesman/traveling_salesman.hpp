@@ -11,7 +11,7 @@ typedef std::vector<city> route;
 /*
 Calcula a rota mais curta para o problema do caixeiro viajante
 recebe: grafo em forma de matriz de adjacencias em que as cidades
-são números e também os índices da matriz
+são números e também os índices da matriz. Assume-se que o grafo é completo.
 retorna: arranjo com a ordem das cidades a serem visitadas
 */
 route computeShortestRoute(adjacency_matrix);
