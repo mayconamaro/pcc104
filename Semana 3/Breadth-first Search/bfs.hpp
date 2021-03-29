@@ -1,5 +1,5 @@
-#ifndef DFS_HPP
-#define DFS_HPP
+#ifndef BFS_HPP
+#define BFS_HPP
 
 #include <vector>
 #include <set>
