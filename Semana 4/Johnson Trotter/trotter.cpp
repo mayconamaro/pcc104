@@ -1,6 +1,5 @@
 #include <vector>
 #include <utility>
-#include <iostream>
 #include "trotter.hpp"
 
 std::vector<std::vector<unsigned int>> generate_permutations(unsigned int n){
