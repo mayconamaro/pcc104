@@ -1,5 +1,5 @@
 # Projeto e Análise de Algoritmos
-Minhas soluções para a disciplina Projeto e Análise de Algoritmos da pós graduação.
+Minhas soluções para a disciplina Projeto e Análise de Algoritmos da pós graduação. A existência deste repositório, de forma pública, está em conformidade com a metodologia do professor responsável pela disciplina na ocasião.
 
 ## Como executar
 Dentro de cada semana há pastas individuais para cada exercício. Dentro de cada uma dessas pastas há o código fonte, um makefile e pelo menos uma instância. Tendo o *kit* de compilação de C++11 instalado, abra um terminal na pasta do exercício e compile usando
